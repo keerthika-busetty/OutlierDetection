@@ -1,0 +1,17 @@
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\Data\Outliers.csv
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\OutliersDetection.exe.config
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\OutliersDetection.exe
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\OutliersDetection.pdb
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\CsvHelper.dll
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.Buffers.dll
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.Memory.dll
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.ValueTuple.dll
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\CsvHelper.xml
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.Buffers.xml
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.Memory.xml
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\keerthika\OutliersDetection\OutliersDetection\bin\Debug\System.ValueTuple.xml
+C:\keerthika\OutliersDetection\OutliersDetection\obj\Debug\OutliersDetection.csprojResolveAssemblyReference.cache
+C:\keerthika\OutliersDetection\OutliersDetection\obj\Debug\OutliersDetection.exe
+C:\keerthika\OutliersDetection\OutliersDetection\obj\Debug\OutliersDetection.pdb
